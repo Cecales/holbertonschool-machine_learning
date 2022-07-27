@@ -1,5 +1,7 @@
 # 0x00. Linear Algebra
 
+![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2018/9/54daaf81421a9b894688.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220725%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220725T175445Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=584439e333823b084fcfb8b4f57b3eae901e5d99b31acd58e1eeea61dfc7bfdc)
+
 ## Resources
 
 #### Read or watch:
