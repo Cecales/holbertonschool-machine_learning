@@ -4,8 +4,8 @@
 
 def matrix_shape(matrix):
     """ calculate the shape of a matrix """
-    shape = []
-    while isinstance(matrix, list):
-        shape.append(len(matrix))
+    shape = [len(matrix)]
+    while type(matrix[0]) != int:
+        shape.append(len(matrix[0]))
         matrix = matrix[0]
-        return shape
+    return shape
