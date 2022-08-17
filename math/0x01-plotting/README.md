@@ -1,6 +1,6 @@
 # 0x01. Plotting
 
-![This is a alt Text.](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2018/9/b4601426ad02130836f9.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220817%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220817T201443Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4e7669c302131d4c1fbd4efb51bcd913fbff3ee08d4bad38bf66bc12667df51e)
+![This is a alt Text.](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2018/9/b4601426ad02130836f9.jpg)
 
 ## Resources
 #### Read or watch:
