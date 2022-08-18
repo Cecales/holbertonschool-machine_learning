@@ -1,7 +1,5 @@
 # 0x01. Plotting
 
-![This is a alt Text.](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2018/9/b4601426ad02130836f9.jpg)
-
 ## Resources
 #### Read or watch:
 
