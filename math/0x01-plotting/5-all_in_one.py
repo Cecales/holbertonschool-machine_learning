@@ -68,8 +68,8 @@ ax5.set_xlim(0, 100)
 ax5.set_ylim(0, 30)
 
 for ax in [ax1, ax2, ax3, ax4, ax5]:
-        for item in [ax.title, ax.xaxis.label, ax.yaxis.label]:
-                    item.set_fontsize('x-small')
+    for item in [ax.title, ax.xaxis.label, ax.yaxis.label]:
+        item.set_fontsize('x-small')
 
 plt.tight_layout()
 plt.show()
