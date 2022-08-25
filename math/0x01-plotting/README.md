@@ -1,6 +1,7 @@
 # 0x01. Plotting
 
 ## Resources
+
 #### Read or watch:
 
 * Plot (graphics)
